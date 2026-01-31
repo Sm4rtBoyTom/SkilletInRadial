@@ -1,4 +1,5 @@
-![Thumb_RepairableRepairables](https://github.com/user-attachments/assets/81e6099e-f247-4dd5-91a8-3d97d758a039)
+![Thumb_SkilletInRadial](https://github.com/user-attachments/assets/7911e189-641b-428d-8677-11bd530b4c35)
+
 # Skillet in radial
 
 Skillet in radial is a mod for [The Long Dark](https://www.thelongdark.com). 

@@ -8,7 +8,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
 ### Installation
 
-- **Install** [[ModSettings](null)]
+- **Install** **SkilletInRadial.dll**
 
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!

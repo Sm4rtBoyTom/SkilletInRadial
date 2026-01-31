@@ -13,10 +13,6 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
 
-![image](https://github.com/user-attachments/assets/264b15eb-15ec-40d6-9f2e-6ee170bac0d4)
-![image](https://github.com/user-attachments/assets/d7cfd8bc-9158-4d10-846f-ff180fcdf625)
-![image](https://github.com/user-attachments/assets/3f4077ff-cfe4-4ca5-8b83-dae6bc09ba6a)
-
 
 
 

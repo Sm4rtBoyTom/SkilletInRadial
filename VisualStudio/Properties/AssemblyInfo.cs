@@ -1,0 +1,6 @@
+﻿[assembly: AssemblyTitle("SkilletInRadial")]
+[assembly: AssemblyCopyright("Sm4rtBoyTom")]
+[assembly: AssemblyVersion("1.1.1")]
+[assembly: AssemblyFileVersion("1.1.1")]
+[assembly: MelonInfo(typeof(SkilletinRadial.Main), "SkilletInRadial", "1.1.1", "Sm4rtBoyTom", null)]
+[assembly: MelonGame("Hinterland", "TheLongDark")]
